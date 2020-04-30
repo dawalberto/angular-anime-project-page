@@ -71,7 +71,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<h1>Angular Anime Project</h1>\n<div>\n  <img src=\"../../assets/images/angular.png\" alt=\"angular\">\n  <span>+</span>\n  <img src=\"../../assets/images/zorro.svg\" alt=\"zorro\">\n  <span>+</span>\n  <img src=\"../../assets/images/jikan.png\" alt=\"jikan\">\n</div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<h1>Angular Anime Project</h1>\n<div>\n  <img src=\"assets/images/angular.png\" alt=\"angular\">\n  <span>+</span>\n  <img src=\"assets/images/zorro.svg\" alt=\"zorro\">\n  <span>+</span>\n  <img src=\"assets/images/jikan.png\" alt=\"jikan\">\n</div>\n");
 
 /***/ }),
 
